@@ -10,5 +10,5 @@ Screenshot
 
 Link to Application
 
-https://github.com/mariasori/challenge1/blob/main/index.html
+https://github.com/mariasori/challenge1.git
 
