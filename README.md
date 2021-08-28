@@ -12,5 +12,4 @@ This challenge required me to refactor the HTML and CSS for Horiseon's website. 
 
 ## Link to Application
 
-https://github.com/mariasori/challenge1.git
-
+https://mariasori.github.io/challenge1/
