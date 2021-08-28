@@ -1,4 +1,4 @@
-# Challenge 1 - 
+# Challenge 1 
 
 ## Horiseon Web Page - Refactoring Code
 
